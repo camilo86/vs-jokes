@@ -18,7 +18,7 @@ export default class Jokes {
     public async renderJoke() {
         try {
             const result = await axios.get<IJokeResult>('https://icanhazdadjoke.com/', { headers: { 'Accept': 'application/json' } });
-            this.jokeStatusBar.text = result.data.joke;
+            this.jokeStatusBar.text = `$(megaphone) ${result.data.joke}`;
         } catch (e) {
             console.error(e);
         }
