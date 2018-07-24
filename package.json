@@ -1,6 +1,6 @@
 {
-    "name": "vs-joke",
-    "displayName": "vs-joke",
+    "name": "vs-jokes",
+    "displayName": "vs-jokes",
     "description": "Jokes delivered straight to your vscode",
     "version": "0.0.1",
     "publisher": "camilo",
