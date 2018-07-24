@@ -5,7 +5,7 @@
     "version": "0.0.1",
     "publisher": "camilo",
     "preview": true,
-    "icon": "./vs-code.png",
+    "icon": "images/vs-code.png",
     "engines": {
         "vscode": "^1.25.0"
     },
