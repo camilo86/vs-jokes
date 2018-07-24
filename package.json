@@ -2,12 +2,12 @@
     "name": "vs-jokes",
     "displayName": "vs-jokes",
     "description": "Jokes delivered straight to your vscode",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "camilo",
     "preview": true,
     "icon": "images/vs-code.png",
     "engines": {
-        "vscode": "^1.25.0"
+        "vscode": "^1.23.0"
     },
     "categories": [
         "Other"
