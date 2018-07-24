@@ -4,6 +4,8 @@
     "description": "Jokes delivered straight to your vscode",
     "version": "0.0.1",
     "publisher": "camilo",
+    "preview": true,
+    "icon": "https://i.imgur.com/uLNHnGA.png",
     "engines": {
         "vscode": "^1.25.0"
     },
